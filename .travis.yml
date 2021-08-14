@@ -13,10 +13,12 @@ script:
   - python -m unittest -v test
 
 before_install:
-  - openssl aes-256-cbc -K $encrypted_0019a16062c1_key -iv $encrypted_0019a16062c1_iv
+  - openssl aes-256-cbc -K $encrypted_5ed8dd2f282c_key -iv $encrypted_5ed8dd2f282c_iv
     -in lab-devops-cloud-eliezer-db5b915ed8b5.json.enc -out lab-devops-cloud-eliezer-db5b915ed8b5.json
     -d
 
+
+    
 # Definir o Deploy no Heroku
 deploy:
   #  provider: heroku

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lab-devops-cloud-eliezer",
+  "private_key_id": "db5b915ed8b5397a7ff3de61d9ca416746de2046",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDPhIP4wS5H3A5r\nTdT818a0KT11jXvPCxexVNKk7haQ734J+fQNrYnS8QKyIZ/4ufYqrjFOFU+kjgW/\nKWmWCiD3kYTjh21smqL+eHm9/iboC0qzz7FAem7GVB1iUuo3K2r53YPPCO3Q8Sme\nm0DJ82AWJfv+m1vnwF/oIhoifAkYh/TUh9XvAAJJGQpzNh3zbXFfFOq0nFXln5NK\nCWdFub+cjfkFQXMfJ3UXuIXwuNPDND5sMpTS0z2W8t0YJtGXK8n8JLJi5eSsQEuu\nfwjUUHP4KeiwPNcp1GidK2RXNDXM4OPHssREXCMXLnAcQXsfEMcOHwe1yGEVeH4b\ny4KzjZolAgMBAAECggEACf4Py8XjmF66jAS0rZMnVIwK01MDg/H9C1MyDHKRgBuk\nJk9Upub1FMT5tAGl/hhYR/BY2/FvQxV6pdyU4r5snXcynrEp/fmJQTckZ5dqILDQ\ngU2OM7RhiqfIvXAQKqVq0orN2sWLjAzcy/AeY8sWFKLyGi25dHShOaCQwRnXZ0io\naAVkjQtRmEfCIAXwq+5HaxcAvtM+HmWrvpUPB9Ykp1Y00DMUvZkoOJo35vIvOrKt\nd0Y3RQeGUDxFLcrI60RNl0d22UkGYMe+KH+nBHE5da1WBV9YAQYqIPnOE2RlZ1YO\nCr250goizqb5hf9jovPmyjtZjX67aQpA1J89vV/YGQKBgQD5Fk7UtHMW7w/p9AN6\ngVZO3PB9sw5S9PPZSzjX2wYMsNoNdy81gXZj99rkqot4511VRCezTxJvYZsRazQT\nmx6L5CGUn2sw0+EU7uLPXcLL1nx6Hm9IuTICgWEc3FGg4elXKfhbhqNW58+3czPB\nTtyztv+9nZArKyIlaxfOqbAlDQKBgQDVRt5I2BRHrjYd25xIo+xlV9LKRPz4Zzof\n0r2wtJwspUKKUWFmbQwUcx8yPuOz0XvWmo0ordoMEBntS6VGJKz7m5uDbfJYB/sI\nkhNkGu1OqYhNeajwoNj7PVGwAnt+FWBzGX+M4Sz0w1qR4uu5lS8rE/ErPYhjCZ3i\n1Jev2fSzeQKBgHKznht++RyPe7GNR2jLVFY+kZQgtzDmUcA3TnbACjof2lmnD5tB\nAaapRShVjKJhUG5qUynT+LZHqSPNTQ7WOKvMotYQz0iN2TFNjC5Xi9NX8rw9dZt0\nhJ34vCKRJhnCzjPwRMjI6EClwNZGe4fB7Anp9Dx56SCn3TKD7VOielWlAoGAaJVU\n4TGcWD4UaXXMYE6J2HRFeEx2JDUyanKD9EfMoZP0WjFn6rskhk6hiJkQPZhG+shU\n2hLObsXigNtsU0Ye0U7P5pYelY5sShqfiaIupjk6DovPDRhC7oh2KzI8bmp7HlXt\nlx7AVdIJ8qns39dJBv3DcGm/HJmVo6qOK3xcozkCgYA2lnkz7CWllFtgn2lrVr2U\nYG9JWAqgf4ySt/ESykXV5o4PV6cOFniasaVI0bLUatZAcRloCDnUa1cBQQWf779g\njh0Mh3pT2LaEu7gUkFvQPQV9HMxLkYvY8y0pnwrmR1ZeRm+1QhuOIpEP2ghr/LEJ\nVjNhRjJsoKPfkatoiKqRUA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "terraform@lab-devops-cloud-eliezer.iam.gserviceaccount.com",
+  "client_id": "117948016807330948198",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/terraform%40lab-devops-cloud-eliezer.iam.gserviceaccount.com"
+}
