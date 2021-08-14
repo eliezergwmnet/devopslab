@@ -23,7 +23,7 @@ deploy:
   #  branch: main
 
   provider: gae
-  keyfile: lab-devops-cloud-eliezer-db5b915ed8b5.json
+  keyfile: ../lab-devops-cloud-eliezer-db5b915ed8b5.json
   project: lab-devops-cloud-eliezer
   on:
     branch: main
