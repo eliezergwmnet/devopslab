@@ -15,9 +15,15 @@ script:
 
 # Definir o Deploy no Heroku
 deploy:
-  provider: heroku
+  - provider: heroku
   api_key: $HEROKU_API_KEY
   edge: true 
   app: devopslab-eliezer
   on:
+      branch: main
+
+  - provider: gae
+    keyfile: lab-devops-cloud-eliezer-db5b915ed8b5.json
+    project: lab-devops-cloud-eliezer
+    on:
       branch: main
